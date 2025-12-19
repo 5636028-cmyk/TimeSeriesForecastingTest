@@ -1,3 +1,6 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
+https://colab.research.google.com/github/5636028-cmyk/TimeSeriesForecastingTest/blob/main/assignment_notebook.ipynb
+)
 # 비트코인 가격 예측 및 트레이딩 전략 프로젝트 보고서 📈💰
 
 # 📈 Bitcoin Price Prediction & Trading Strategy
